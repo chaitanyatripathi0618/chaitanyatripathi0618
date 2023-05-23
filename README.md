@@ -1,4 +1,5 @@
-![logo](https://github.com/chaitanyatripathi0618/chaitanyatripathi0618/blob/main/code.png)
+<img src="https://github.com/chaitanyatripathi0618/chaitanyatripathi0618/blob/main/code.png">
+
 
 
 <h1 align="center">Hi 👋, I'm Chaitanya Tripathi</h1>
