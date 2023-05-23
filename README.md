@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<iframe align="right" src="https://embed.lottiefiles.com/animation/109119"></iframe>
+<img src="C:\Users\CHAITANYA\Downloads\animation_500_lhzt3wlq.gif>
 
 - 🔭 I’m currently working on **Lodging Loop**
 
