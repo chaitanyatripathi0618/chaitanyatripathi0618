@@ -1,4 +1,4 @@
-![logo](https://github.com/chaitanyatripathi0618/chaitanyatripathi0618/blob/main/code.png)
+![logo](https://github.com/chaitanyatripathi0618/chaitanyatripathi0618/commit/fe9c6088e4c1acee0b7c971a8b7cead1956014ef)
 
 
 
