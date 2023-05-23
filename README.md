@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif>
+<img align="right" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif">
 
 - 🔭 I’m currently working on **Lodging Loop**
 
