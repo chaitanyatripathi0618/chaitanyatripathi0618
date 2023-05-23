@@ -1,4 +1,4 @@
-<img src="https://pin.it/3rgGsfW">
+<video src="https://pin.it/3rgGsfW">
 <h1 align="center">Hi 👋, I'm Chaitanya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
